@@ -10,4 +10,6 @@ I am interested in:
  - File sharing
  - Moving things to :crab: rust
 
-[gitlab.com/pegpeg](https://gitlab.com/pegpeg) - [magmacollective.org](https://magmacollective.org/) - [darkcrystal.pw](https://darkcrystal.pw/)
+Most of my code is on gitlab: [gitlab.com/pegpeg](https://gitlab.com/pegpeg) 
+
+[magmacollective.org](https://magmacollective.org/) - [darkcrystal.pw](https://darkcrystal.pw/)
