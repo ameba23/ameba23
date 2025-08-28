@@ -8,8 +8,12 @@ I am interested in:
  - Cryptography for groups / group management / group moderation
  - Social backup / recovery
  - File sharing
- - Moving things to :crab: rust
+ - Confidential computing - if you must use servers, make it possible for people to audit what is running on the server - through client attestation and reproducible builds.  
 
-Most of my code is on gitlab: [gitlab.com/pegpeg](https://gitlab.com/pegpeg) 
+Confidential computing crates i authored:
+ - [`tdx-quote`](https://docs.rs/tdx-quote) - Parse and verify TDX quotes
+ - [`configfs-tsm`](https://docs.rs/configfs-tsm) - Generate quotes for remote attestation on confidential computing platforms using Linux's configfs-tsm filesystem interface
+
+A lot of my code is on gitlab: [gitlab.com/pegpeg](https://gitlab.com/pegpeg) 
 
 [magmacollective.org](https://magmacollective.org/) - [darkcrystal.pw](https://darkcrystal.pw/)
