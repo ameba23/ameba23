@@ -8,7 +8,7 @@ Why I love peer-to-peer:
  - Reduce dependence on commercial infrastructure
  - Reduce energy use
 
-In my spare time i maintain [harddrive-party]()
+In my spare time i maintain [harddrive-party](https://github.com/ameba23/harddrive-party)
 
 I am particularly interested in peer discovery and NAT traversal.
 
@@ -26,7 +26,7 @@ Confidential computing crates i authored:
 
 Rely on a small group of people you trust to secure your identity online.
 
-For several years i worked on [darkcrystal.pw](https://darkcrystal.pw/) - a protocol framework for social recovery with implementations in Rust, Java, and Javascript. I worked on a social recovery feature for the privacy-focussed messaging app, [Briar]().
+For several years i worked on [darkcrystal.pw](https://darkcrystal.pw/) - a protocol framework for social recovery with implementations in Rust, Java, and Javascript. I worked on a social recovery feature for the privacy-focussed messaging app, [Briar](https://briarproject.org).
 
 ## Cryptography for groups / group management / group moderation
 
